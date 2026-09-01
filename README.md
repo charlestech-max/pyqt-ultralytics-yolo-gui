@@ -48,4 +48,4 @@ Semantic Segmentation over image
 
 Semantic Segmentation over video: https://youtu.be/bdRfcM8MlXI
 
-By default, it shows label and box, probability. I removed them by unchecking all options.
+By default, it shows label and box, probability. I removed them by unchecking all options.
